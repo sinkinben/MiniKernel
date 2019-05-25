@@ -1,3 +1,5 @@
 *.img
 *.bin
 *.o
+.vscode/*
+kernel002/build/*
